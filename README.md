@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikeAnderson89, a Data Scientist at National Guardian Life
+- 👋 Hi, I’m @MikeAnderson89, a Data Scientist at NTT Data
 - 👀 I’m interested in Data Science, Machine Learning, and Neural Networks
 - 🌱 I’m currently learning Advanced Neural Network techniques
 - 💞️ I’m looking to collaborate on data science competitions and learning from Senior Data Scientists.
